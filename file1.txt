@@ -1,0 +1,3 @@
+I am learning some of the cmds in git bash
+Exploring all the cmds with hands- on- training
+This is my first day of wipro training.
